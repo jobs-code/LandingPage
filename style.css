@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 body{
     display:flex;
     flex-direction:column;
@@ -91,6 +93,8 @@ img{
 }
 #btn1{
     min-width:150px;
+    font-size:20px;
+    font-weight:bold;
 }
 
 .Heros, .right-links{
@@ -110,6 +114,7 @@ img{
 
 .section2{
     padding:50px;
+    color:#73767a;
 }
 
 .infoh, .quote{
@@ -157,6 +162,7 @@ img{
     font-style:italic;
     width:100%;
     margin:0;
+    color:#73767a;
 }
 .author{
     max-width:800px;
